@@ -1,16 +1,6 @@
-# flutter_social_media_feed_case_study
+# flutter_social_media_feed
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-10-03-22-37-02-287_com example flutter_social_media_feed_case_study](https://github.com/talhademirel/flutter_social_media_feed/assets/79982521/a99f4250-e29a-4991-af7f-882c92218368)
+![Screenshot_2023-10-03-22-33-23-484_com example flutter_social_media_feed_case_study](https://github.com/talhademirel/flutter_social_media_feed/assets/79982521/20e971a5-03cf-4d13-b792-1405fdd6f9ad)
+![Screenshot_2023-10-03-22-33-06-225_com example flutter_social_media_feed_case_study](https://github.com/talhademirel/flutter_social_media_feed/assets/79982521/691db28d-312f-443f-8a9b-d107fc613a13)
