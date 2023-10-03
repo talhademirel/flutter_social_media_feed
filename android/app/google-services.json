@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "933724280771",
+    "firebase_url": "https://flutterbootcamp-bf81a-default-rtdb.firebaseio.com",
+    "project_id": "flutterbootcamp-bf81a",
+    "storage_bucket": "flutterbootcamp-bf81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933724280771:android:a1cee600860cea4aad4f76",
+        "android_client_info": {
+          "package_name": "com.example.flutter_social_media_feed_case_study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933724280771-mdjiapn6n67uhkebp7mqlvj2u8o8pa4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisrgEGDEXAjfYB0VQYZpZqj3gzMInWfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933724280771-mdjiapn6n67uhkebp7mqlvj2u8o8pa4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
